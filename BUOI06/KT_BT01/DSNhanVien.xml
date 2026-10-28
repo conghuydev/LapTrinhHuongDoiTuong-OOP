@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV001</MaNV>
+		<TenNV>Nguyen Van An</TenNV>
+		<NamVaoLam>2018</NamVaoLam>
+		<HeSoLuong>3.2</HeSoLuong>
+		<SoNgayNghi>1</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>CanBo</Loai>
+		<MaNV>CB001</MaNV>
+		<TenNV>Tran Thi Binh</TenNV>
+		<NamVaoLam>2015</NamVaoLam>
+		<HeSoLuong>4.0</HeSoLuong>
+		<SoNgayNghi>1</SoNgayNghi>
+		<ChucVu>Truong phong</ChucVu>
+		<PhongBan>Hanh chinh</PhongBan>
+		<HeSoPhuCapLanhDao>5.0</HeSoPhuCapLanhDao>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV003</MaNV>
+		<TenNV>Le Minh Chau</TenNV>
+		<NamVaoLam>2019</NamVaoLam>
+		<HeSoLuong>3.0</HeSoLuong>
+		<SoNgayNghi>4</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>CanBo</Loai>
+		<MaNV>CB002</MaNV>
+		<TenNV>Pham Quoc Bao</TenNV>
+		<NamVaoLam>2016</NamVaoLam>
+		<HeSoLuong>4.2</HeSoLuong>
+		<SoNgayNghi>2</SoNgayNghi>
+		<ChucVu>Pho phong</ChucVu>
+		<PhongBan>Ke toan</PhongBan>
+		<HeSoPhuCapLanhDao>3.0</HeSoPhuCapLanhDao>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV005</MaNV>
+		<TenNV>Vo Thi Ngoc</TenNV>
+		<NamVaoLam>2020</NamVaoLam>
+		<HeSoLuong>2.8</HeSoLuong>
+		<SoNgayNghi>3</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV006</MaNV>
+		<TenNV>Dang Hoang Nam</TenNV>
+		<NamVaoLam>2017</NamVaoLam>
+		<HeSoLuong>3.6</HeSoLuong>
+		<SoNgayNghi>5</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>CanBo</Loai>
+		<MaNV>CB003</MaNV>
+		<TenNV>Bui Thi Mai</TenNV>
+		<NamVaoLam>2020</NamVaoLam>
+		<HeSoLuong>3.5</HeSoLuong>
+		<SoNgayNghi>1</SoNgayNghi>
+		<ChucVu>Truong phong</ChucVu>
+		<PhongBan>Nhan su</PhongBan>
+		<HeSoPhuCapLanhDao>5.0</HeSoPhuCapLanhDao>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV008</MaNV>
+		<TenNV>Do Thanh Tung</TenNV>
+		<NamVaoLam>2016</NamVaoLam>
+		<HeSoLuong>3.9</HeSoLuong>
+		<SoNgayNghi>2</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV009</MaNV>
+		<TenNV>Hoang My Linh</TenNV>
+		<NamVaoLam>2021</NamVaoLam>
+		<HeSoLuong>2.7</HeSoLuong>
+		<SoNgayNghi>6</SoNgayNghi>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV010</MaNV>
+		<TenNV>Nguyen Duc Huy</TenNV>
+		<NamVaoLam>2014</NamVaoLam>
+		<HeSoLuong>4.5</HeSoLuong>
+		<SoNgayNghi>0</SoNgayNghi>
+	</NhanVien>
+</DanhSach>
