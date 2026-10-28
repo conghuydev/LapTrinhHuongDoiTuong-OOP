@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachNhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV001</MaNV>
+		<TenNV>Nguyen Van An</TenNV>
+		<Hsl>2.34</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV002</MaNV>
+		<TenNV>Tran Thi Binh</TenNV>
+		<Hsl>3.20</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV003</MaNV>
+		<TenNV>Le Minh Chau</TenNV>
+		<Hsl>2.80</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV004</MaNV>
+		<TenNV>Pham Quoc Bao</TenNV>
+		<Hsl>3.50</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV005</MaNV>
+		<TenNV>Vo Thi Ngoc</TenNV>
+		<Hsl>2.67</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV006</MaNV>
+		<TenNV>Dang Hoang Nam</TenNV>
+		<Hsl>3.80</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV007</MaNV>
+		<TenNV>Bui Thi Mai</TenNV>
+		<Hsl>4.00</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>NhanVien</Loai>
+		<MaNV>NV008</MaNV>
+		<TenNV>Do Thanh Tung</TenNV>
+		<Hsl>2.50</Hsl>
+	</NhanVien>
+	<NhanVien>
+		<Loai>CBLanhDao</Loai>
+		<MaNV>NV009</MaNV>
+		<TenNV>Dieu Hien</TenNV>
+		<Hsl>4.67</Hsl>
+		<ChucVu>GiamDoc</ChucVu>
+		<ThamNien>10</ThamNien>
+	</NhanVien>
+	<NhanVien>
+		<Loai>CBLanhDao</Loai>
+		<MaNV>NV010</MaNV>
+		<TenNV>Nguyen Duc Huy</TenNV>
+		<Hsl>3.50</Hsl>
+		<ChucVu>TruongPhong</ChucVu>
+		<ThamNien>5</ThamNien>
+	</NhanVien>
+</DanhSachNhanVien>

@@ -10,6 +10,11 @@ namespace KT_BT02
     {
         static void Main(string[] args)
         {
+            QuanLyNhanVien a = new QuanLyNhanVien();
+            string filename = ("../../DSNhanVien.xml");
+            a.DocFile(filename);
+            a.XuatDS();
+            Console.ReadKey();
         }
     }
 }
