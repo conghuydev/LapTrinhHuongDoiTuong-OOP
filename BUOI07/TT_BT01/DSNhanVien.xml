@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachNhanVien>
+
+	<!-- 1 Nhân Viên Sản Xuất -->
+	<NhanVien>
+		<LoaiNhanVien>1</LoaiNhanVien>
+		<MaNV>SX01</MaNV>
+		<HoTen>Nguyen Van A</HoTen>
+		<NamSinh>1990</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Hsl>2.34</Hsl>
+		<NamVL>2015</NamVL>
+		<SoNgayNghi>2</SoNgayNghi>
+	</NhanVien>
+
+	<!-- 2 Nhân Viên Kinh Doanh -->
+	<NhanVien>
+		<LoaiNhanVien>2</LoaiNhanVien>
+		<MaNV>KD01</MaNV>
+		<HoTen>Tran Thi B</HoTen>
+		<NamSinh>1992</NamSinh>
+		<GioiTinh>Nu</GioiTinh>
+		<Hsl>2.67</Hsl>
+		<NamVL>2018</NamVL>
+		<DoanhSoBanHangToiThieu>10000000</DoanhSoBanHangToiThieu>
+		<DoanhSoBanHangThucTe>15000000</DoanhSoBanHangThucTe>
+	</NhanVien>
+	<NhanVien>
+		<LoaiNhanVien>2</LoaiNhanVien>
+		<MaNV>KD02</MaNV>
+		<HoTen>Le Van C</HoTen>
+		<NamSinh>1995</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Hsl>2.34</Hsl>
+		<NamVL>2021</NamVL>
+		<DoanhSoBanHangToiThieu>15000000</DoanhSoBanHangToiThieu>
+		<DoanhSoBanHangThucTe>12000000</DoanhSoBanHangThucTe>
+	</NhanVien>
+
+	<!-- 3 Cán Bộ Quản Lý -->
+	<NhanVien>
+		<LoaiNhanVien>3</LoaiNhanVien>
+		<MaNV>QL01</MaNV>
+		<HoTen>Pham Van D</HoTen>
+		<NamSinh>1985</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Hsl>4.32</Hsl>
+		<NamVL>2010</NamVL>
+		<ChucVu>Truong Phong</ChucVu>
+		<HsChucVu>0.5</HsChucVu>
+	</NhanVien>
+	<NhanVien>
+		<LoaiNhanVien>3</LoaiNhanVien>
+		<MaNV>QL02</MaNV>
+		<HoTen>Hoang Thi E</HoTen>
+		<NamSinh>1988</NamSinh>
+		<GioiTinh>Nu</GioiTinh>
+		<Hsl>3.66</Hsl>
+		<NamVL>2012</NamVL>
+		<ChucVu>Pho Phong</ChucVu>
+		<HsChucVu>0.3</HsChucVu>
+	</NhanVien>
+	<NhanVien>
+		<LoaiNhanVien>3</LoaiNhanVien>
+		<MaNV>QL03</MaNV>
+		<HoTen>Ngo Van F</HoTen>
+		<NamSinh>1980</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Hsl>5.00</Hsl>
+		<NamVL>2005</NamVL>
+		<ChucVu>Giam Doc</ChucVu>
+		<HsChucVu>1.0</HsChucVu>
+	</NhanVien>
+
+</DanhSachNhanVien>
