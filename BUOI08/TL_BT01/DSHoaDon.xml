@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CongTyABC>
+	<TenCty>Cong ty ABC</TenCty>
+	<DiaChi>123 Nguyen Van Cu, Quan 5, TP.HCM</DiaChi>
+
+	<DanhSachHoaDon>
+		<HoaDon type="HDDaiLy">
+			<MaKH>DL001</MaKH>
+			<TenKH>Nguyen Van An</TenKH>
+			<SoLuong>10</SoLuong>
+			<Gia>200000</Gia>
+			<SoNamHT>6</SoNamHT>
+		</HoaDon>
+
+		<HoaDon type="HDDaiLy">
+			<MaKH>DL002</MaKH>
+			<TenKH>Tran Thi Binh</TenKH>
+			<SoLuong>15</SoLuong>
+			<Gia>150000</Gia>
+			<SoNamHT>3</SoNamHT>
+		</HoaDon>
+
+		<HoaDon type="HDCaNhan">
+			<MaKH>CN001</MaKH>
+			<TenKH>Le Van Cuong</TenKH>
+			<SoLuong>8</SoLuong>
+			<Gia>120000</Gia>
+			<KhoangCach>5</KhoangCach>
+		</HoaDon>
+
+		<HoaDon type="HDCaNhan">
+			<MaKH>CN002</MaKH>
+			<TenKH>Pham Thi Dung</TenKH>
+			<SoLuong>30</SoLuong>
+			<Gia>300000</Gia>
+			<KhoangCach>15</KhoangCach>
+		</HoaDon>
+
+		<HoaDon type="HDCongTy">
+			<MaKH>CT001</MaKH>
+			<TenKH>Cong ty Minh Phat</TenKH>
+			<SoLuong>20</SoLuong>
+			<Gia>500000</Gia>
+			<SLNV>600</SLNV>
+		</HoaDon>
+	</DanhSachHoaDon>
+</CongTyABC>
